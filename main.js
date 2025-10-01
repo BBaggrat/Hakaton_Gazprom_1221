@@ -611,7 +611,7 @@ function goNextContinue() {
     state.idleCooldowns = {}; // сброс мягких кулдаунов
     state.breakEventFired = false;
     state.idleContext = { chainNextId: null, chainId: null, subPool: null, subLeft: 0 };
-    appendFeed("Антон принял решение. Теперь ждем последствий...", 0, 0);
+    appendFeed("Вы приняли решение. Теперь ждем последствий...", 0, 0);
     render(); localStorage.setItem(SAVE_KEY, JSON.stringify(state));
   } else {
     state.nodeId = marker; render();

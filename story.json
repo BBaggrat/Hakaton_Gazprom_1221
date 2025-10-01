@@ -44,8 +44,8 @@
     },
 
     "Credit_events": {
-      "cooldownTitle": "Обсуждаем наши ресурсы.",
-      "cooldownText": "Одна голова - хорошо. Но две - лучше.",
+      "cooldownTitle": "Изучаем продуктовые предложения.",
+      "cooldownText": "Помотрим, что нам могут предложить в банке.",
       "cooldownMin": 0.5,
       "idleIntervalSec": 5,
 "link": 

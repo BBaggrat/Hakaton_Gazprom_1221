@@ -13,4 +13,4 @@ Frontend: HTML5, CSS3, JavaScript.
 Сценарии: JSON (структура узлов истории, ивентов, концовок).
 
 GitHub: https://github.com/BBaggrat/Hakaton_Gazprom_1221
-Деплой: 
+Деплой: https://hakaton-gazprom-1221.vercel.app/
